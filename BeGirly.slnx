@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BeGirly.Api/BeGirly.Api.csproj" />
+  <Project Path="BeGirly.Application/BeGirly.Application.csproj" />
+  <Project Path="BeGirly.Domain/BeGirly.Domain.csproj" />
+  <Project Path="BeGirly.Infrastructure/BeGirly.Infrastructure.csproj" />
+</Solution>
